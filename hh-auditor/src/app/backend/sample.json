@@ -1,0 +1,17 @@
+[
+  {
+    "text": "The quick brown fox jumps over the lazy dog",
+    "id": 1,
+    "category": "example"
+  },
+  {
+    "text": "Artificial intelligence is transforming the world",
+    "id": 2,
+    "category": "technology"
+  },
+  {
+    "text": "Machine learning models can understand natural language",
+    "id": 3,
+    "category": "ai"
+  }
+] 
