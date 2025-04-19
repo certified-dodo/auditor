@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "server": "uvicorn src.backend.server:app --reload",
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
